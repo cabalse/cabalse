@@ -1,6 +1,7 @@
 - 👋 @cabalse
-- Senior Front-end developer @ Nowadays
+- Emeritus Front-end developer @ Nowadays
 - Always something new and exciting to learn!!
+- Taking a trip to space with Astro
 
 <!---
 cabalse/cabalse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
