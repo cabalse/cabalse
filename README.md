@@ -1,5 +1,5 @@
 - 👋 @cabalse
-- Emeritus Front-end developer @ Nowadays
+- Dominus Front-end developer @ Nowadays
 - Always something new and exciting to learn!!
 - Taking a trip to space with Astro
 
