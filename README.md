@@ -1,5 +1,5 @@
 - 👋 @cabalse
-- Dominus Front-end developer @ Nowadays
+- Front-end developer @ GuardTools
 - Always something new and exciting to learn!!
 - Taking a trip to space with Astro
 
